@@ -37,6 +37,7 @@ This repository is part of the **WildDrone project** and aims to:
 For questions, feedback, or collaboration opportunities, feel free to reach out:  
 **Guy Maalouf**  
 Email: maaloufguy@gmail.com
+
 Affiliation: University of Southern Denmark / WildDrone.eu  
 
 ## Acknowledgements  
