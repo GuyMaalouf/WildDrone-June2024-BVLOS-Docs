@@ -36,8 +36,8 @@ This repository is part of the **WildDrone project** and aims to:
 ## Contact  
 For questions, feedback, or collaboration opportunities, feel free to reach out:  
 **Guy Maalouf**  
-Email: maaloufguy@gmail.com 
+Email: maaloufguy@gmail.com <br> 
 Affiliation: University of Southern Denmark / WildDrone.eu  
 
 ## Acknowledgements  
-Special thanks to the **WildDrone team**, **Kenya Civil Aviation Authority (KCAA)**, and the **Ol Pejeta Conservancy** for their support and collaboration during this expedition.  
+Special thanks to the **WildDrone team**, **Kenya Civil Aviation Authority (KCAA)**, **Kenya Flight Labs (KFL)**, **Kenya Air Force (KAF)**, and the **Ol Pejeta Conservancy** for their support and collaboration during this expedition.  
